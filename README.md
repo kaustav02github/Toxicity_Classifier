@@ -1,6 +1,13 @@
 # 🧪 Toxicity Classifier
 
 This project is a **Toxicity Classifier** using deep learning to detect toxic behavior in comments. Built with TensorFlow and trained on a labeled dataset from Kaggle, the model aims to classify comments into different categories of toxicity.
+## 🚀 Live Demo
+
+Try out the deployed model here:  
+👉 [Toxicity Comment Analyzer](https://kaustav2002-comment-toxicity-analyzer.hf.space/?__theme=system) – Hosted on Hugging Face Spaces
+
+
+[![Hugging Face Spaces](https://img.shields.io/badge/Live%20Demo-HuggingFace-blue?logo=huggingface)](https://kaustav2002-comment-toxicity-analyzer.hf.space/?__theme=system)
 
 ---
 
